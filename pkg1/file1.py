@@ -1,10 +1,8 @@
-'''
-Created on 16 nov 2016
-
-@author: david
-'''
-
-if __name__ == '__main__':
-    pass
+i = 10
+i = 32
+s=1
+i = 2
+a=24
+print(i)
 
 print('ciao')
